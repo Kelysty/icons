@@ -30,7 +30,7 @@ const {AbbrApi} = require('@kelysty/icons');
 
 ### Default or Named import
 
-Using `default import` from @kelysty/icons/*componentName
+Using `default import` from @kelysty/icons/\*componentName
 
 ```js
 import AbbrApi from '@kelysty/icons/AbbrApi';
