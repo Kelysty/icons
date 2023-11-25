@@ -1,0 +1,7 @@
+{
+  "extends": "@kelysty/tsconfig/tsconfig",
+  "compilerOptions": {
+    "resolveJsonModule": true
+  },
+  "include": ["./lib"]
+}

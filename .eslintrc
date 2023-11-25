@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "@kelysty/eslint-config",
+    "@kelysty/eslint-config/prettier"
+  ],
+  "root": true
+}
