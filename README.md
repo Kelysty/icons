@@ -33,8 +33,8 @@ const {AbbrApi} = require('@kelysty/icons');
 Using `default import` from @kelysty/icons/\*componentName
 
 ```js
-import AbbrApi from '@kelysty/icons/AbbrApi';
-// esm
+import AbbrApi from '@kelysty/icons/esm/AbbrApi';
+// esm: pay attention on .../esm/AbbrApi
 
 const AbbrApi = require('@kelysty/icons/AbbrApi');
 // commonjs
