@@ -1,5 +1,2 @@
-registry=https://registry.npmjs.org
-scope=@kelysty
-access=public
-strict-peer-dependencies=false
-enable-pre-post-scripts=true
+CHANGELOG.md
+CONTRIBUTING.md
